@@ -12,3 +12,13 @@ body {
     width: 400px;
     margin: 10px;
 }
+#footer-bg  {
+    background-color:#2b3035;
+}
+#footer-bg i{
+    color: white;
+    transition: 1s;
+}
+#footer-bg i:hover{
+    transform: scale(1.6);
+}
