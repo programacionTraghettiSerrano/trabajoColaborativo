@@ -1,3 +1,7 @@
+#nav1{
+    box-shadow: 10px 5px 5px green;
+}
+
 .logo {
     height: 50px;
 }
@@ -12,7 +16,7 @@ body {
     width: 400px;
 }
 #footer-bg  {
-    background-color: #230602;
+    background-color: #2b3035
 }
 #footer-bg i{
     color: white;
@@ -20,3 +24,4 @@ body {
 }
 #footer-bg i:hover{
     transform: scale(1.6);
+}
