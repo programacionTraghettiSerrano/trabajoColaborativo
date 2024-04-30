@@ -6,6 +6,12 @@
 }
 body {
     background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .img-fluid mb-4 {
     height: 150px;
