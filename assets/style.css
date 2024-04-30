@@ -7,8 +7,16 @@
 body {
     background-color: black;
 }
-.img-thumbnail {
+.img-fluid mb-4 {
     height: 150px;
     width: 400px;
-    margin: 10px;
 }
+#footer-bg  {
+    background-color: #230602;
+}
+#footer-bg i{
+    color: white;
+    transition: 1s;
+}
+#footer-bg i:hover{
+    transform: scale(1.6);
